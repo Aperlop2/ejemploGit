@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
-        Toast.makeText(this,"hola",Toast.LENGTH_SHORT);//hola
+        Toast.makeText(this,"hola bienvenido",Toast.LENGTH_SHORT);//hola
         Toast.makeText(this,"soy katherine",Toast.LENGTH_SHORT);
         Toast.makeText(this, "¡Bienvenido a EjemploGit! 🌟", Toast.LENGTH_LONG).show()
 
